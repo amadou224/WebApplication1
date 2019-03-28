@@ -8,7 +8,7 @@ namespace WebApplication1.Controllers
 {
     public class DefaultController : Controller
     {
-        // GET: Default
+        // GET: Default    //modific
         public ActionResult Index()
         {
             return View();
